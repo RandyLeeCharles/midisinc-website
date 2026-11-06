@@ -1,3 +1,4 @@
+<img width="4032" height="1260" alt="image" src="https://github.com/user-attachments/assets/8fc082f4-9c1a-4e77-b367-284743312b96" />
 
 # About the MIDI SINC Project
 
